@@ -2,7 +2,7 @@
 
 I'm a researcher and designer of public services.
 
-Lately, I've been working on making it simpler and safer to login and access the [Department of Veterans Affairs’](https://github.com/department-of-veterans-affairs) services with [Blue Tiger](https://www.bluetiger.digital/).
+Lately, I've been making it simpler and safer to login and access the [Department of Veterans Affairs’](https://github.com/department-of-veterans-affairs) services with [Blue Tiger](https://www.bluetiger.digital/).
 
 I used to work in the United Kindom, with the [Royal National Institute for Deaf People](https://rnid.org.uk/), [With You](https://www.wearewithyou.org.uk/), [STBY](https://www.stby.eu/) and the [Design Against Crime Research Centre](https://designagainstcrime.com/).
 
