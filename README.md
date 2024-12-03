@@ -1,6 +1,6 @@
 ### Hello, I'm Tyler! 👋 🌱⚡
 
-I care about designing services that are easy to use and work for everyone. I live in Brooklyn, NY.
+I'm a researcher and designer of public services. I live in Brooklyn, NY.
 
 Lately, I've been making it easier for Veterans to access benefits and services from the [U.S. Department of Veterans Affairs](https://github.com/department-of-veterans-affairs) with [Blue Tiger](https://www.bluetiger.digital/).
 
