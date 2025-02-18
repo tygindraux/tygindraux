@@ -6,6 +6,6 @@ Lately, I've been making it easier for Veterans to access benefits and services 
 
 I used to work in the UK, at the [Royal National Institute for Deaf People](https://rnid.org.uk/), [With You](https://www.wearewithyou.org.uk/), [STBY](https://www.stby.eu/) and [Design Against Crime Research Centre](https://designagainstcrime.com/).
 
-I have over 6 years of experience in design strategy, user research, usability testing, prototyping, service design and workshop facilitation. 
+I have over 7 years of experience in design strategy, user research, usability testing, prototyping, service design and workshop facilitation. 
 
 [tylergindraux.com](https://tylergindraux.com/)
